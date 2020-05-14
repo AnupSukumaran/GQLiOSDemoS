@@ -1,0 +1,6 @@
+framework module Pods_GQLiOSDemo {
+  umbrella header "Pods-GQLiOSDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
